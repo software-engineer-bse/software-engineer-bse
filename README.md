@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=software-engineer-bse&label=Profile%20views&color=0e75b6&style=flat" alt="software-engineer-bse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=software-engineer-bse" alt="software-engineer-bse" /></a> </p>
-
 - 🌱 I’m currently learning **Android development**
 
 - 💬 Ask me about **Python and Web development**
